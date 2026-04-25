@@ -4,7 +4,7 @@
 
 [![Email](https://img.shields.io/badge/Email-edwin.rsm06%40gmail.com-blue?style=flat&logo=gmail)](mailto:edwin.rsm06@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/martin-reyes-sanchez/)
-[![GitHub](https://img.shields.io/badge/GitHub-DataSciencePortafolio-black?style=flat&logo=github)](https://github.com/MartinReyesS)
+[![GitHub](https://img.shields.io/badge/GitHub-DataSciencePortafolio-black?style=flat&logo=github)]([https://github.com/MartinReyesS](https://github.com/MartinReyesS/Data_Science_Repository_personal))
 
 ---
 
